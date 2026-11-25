@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Runtime outputs & data
+output/
+uploads/
+reports/
+models/
+forensics.db
+*.npy
+*.pth
+*.pkl
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
